@@ -1,0 +1,36 @@
+20240614	01:51:48	4a591be8-a0a2-41b1-a552-2e3fe4ce2a8e	TypeError: Cannot read properties of undefined (reading 'username')	GET	/users	undefined
+20240614	01:53:27	b4867336-a679-449e-9448-8be353fa2e78	TypeError: Cannot read properties of undefined (reading 'username')	GET	/users	undefined
+20240614	02:00:58	31230ced-5e31-4337-afff-ec10136bd05f	TypeError: Cannot read properties of undefined (reading 'username')	GET	/users	undefined
+20240614	02:02:17	e2866d21-3c05-452a-ad3a-442bf4d52b4b	TypeError: Cannot read properties of undefined (reading 'username')	GET	/users	undefined
+20240614	02:06:51	b5d83461-3924-4aca-bab1-b94e3e668979	TypeError: Cannot read properties of undefined (reading 'username')	GET	/users	undefined
+20240614	02:08:24	69a367a9-6cc7-4300-aadb-f0c61d636308	TypeError: Cannot read properties of undefined (reading 'username')	GET	/users	undefined
+20240614	02:10:53	a2d331c1-1996-4f2c-8b9f-5f0ff8f25fdb	TypeError: Cannot read properties of undefined (reading 'username')	PUT	/users/666b4f746fa607e088097691	undefined
+20240614	02:11:18	ebacbf47-13b2-48a0-8da9-b8b1cb5b4677	TypeError: Cannot read properties of undefined (reading 'username')	GET	/users/666b4f746fa607e088097691	undefined
+20240614	02:12:13	08c4c4f3-908f-4012-94a3-04d224cdaf74	TypeError: Cannot read properties of undefined (reading 'username')	GET	/users/666b4f746fa607e088097691	undefined
+20240614	02:12:52	b32996a0-9676-4a3c-872a-54859464c9e3	TypeError: Cannot read properties of undefined (reading 'username')	GET	/users/666b4f746fa607e088097691	undefined
+20240614	02:17:59	e6c8f2f4-5052-48fc-b601-a1bfeffe524e	TypeError: Cannot read properties of undefined (reading 'username')	GET	/users/666b4f746fa607e088097691	undefined
+20240614	02:18:05	03096a19-295c-47ed-8593-5ac322b00138	TypeError: Cannot read properties of undefined (reading 'username')	GET	/user	undefined
+20240614	02:18:08	05bd7e88-214c-40b1-aae8-ef67726710da	TypeError: Cannot read properties of undefined (reading 'username')	GET	/use	undefined
+20240614	02:18:17	cbe45dcf-d6a2-4a77-8ead-0cc7dd4d8b49	TypeError: Cannot read properties of undefined (reading 'username')	GET	/u	undefined
+20240614	02:18:33	13aff56a-a999-4dc8-b085-52699139e5bf	TypeError: Cannot read properties of undefined (reading 'username')	GET	/r	undefined
+20240614	02:18:36	445f39c9-4863-4af4-856d-70c664438cd2	TypeError: Cannot read properties of undefined (reading 'username')	GET	/r	undefined
+20240614	02:18:54	38efc517-eeec-4ecd-8cea-990bd40cee67	TypeError: Cannot read properties of undefined (reading 'username')	GET	/kkm	undefined
+20240614	02:18:58	651ab4a2-ed8a-4b80-9296-6ff2e11311a5	TypeError: Cannot read properties of undefined (reading 'username')	GET	/k	undefined
+20240614	02:19:07	e08d40c9-4e8c-44c6-bd56-eff278d039db	TypeError: Cannot read properties of undefined (reading 'username')	GET	/ll	undefined
+20240614	02:23:49	71b88e0d-7f58-4b6f-9e04-db350968cc03	TypeError: Cannot read properties of undefined (reading 'username')	GET	/ll	undefined
+20240614	02:25:20	33c2258f-141d-441b-a90b-9b4b2b1eab68	TypeError: Cannot read properties of undefined (reading 'username')	GET	/ll	undefined
+20240621	15:53:23	30c86c44-73fa-431a-bfdc-94bfea71e1ff	TypeError: res.headers is not a function	POST	/	http://localhost:3500
+20240621	15:53:56	6638fa37-1f7b-41dd-8c4e-4ab458a1be8b	TypeError: res.headers is not a function	POST	/	http://localhost:3500
+20240621	15:54:44	398ca503-f0ad-469b-8489-25cbf87fe259	TypeError: res.headers is not a function	POST	/	http://localhost:3500
+20240621	15:56:27	de3ca17e-1876-42f9-9ae1-bbc94ca6b4e3	TypeError: res.headers is not a function	POST	/	http://localhost:3500
+20240625	01:15:23	eeaa1db9-35ab-4ef4-afe4-3a2594817b1c	ValidationError: Inventory validation failed: unitPrice: Path `unitPrice` is required.	POST	/transactions	http://localhost:5173
+20240625	01:16:41	3b8ce27b-5a57-4269-b73a-e2a866bb31c4	ValidationError: Inventory validation failed: unitPrice: Path `unitPrice` is required.	POST	/transactions	http://localhost:5173
+20240625	01:18:09	ee7f190c-6e09-48a5-ab82-11bd6600f2b6	ValidationError: Inventory validation failed: unitPrice: Path `unitPrice` is required.	POST	/transactions	http://localhost:5173
+20240625	01:19:03	451d059c-caec-4576-bd8d-adb7159dbfe6	ValidationError: Inventory validation failed: unitPrice: Path `unitPrice` is required.	POST	/transactions	undefined
+20240626	00:33:18	98793455-b946-4e6a-ba0e-040127b2673a	ReferenceError: ObjectId is not defined	DELETE	/inventory	undefined
+20240626	00:33:57	4dcd48b7-25e5-4939-9c4e-e0e67b235e96	ReferenceError: ObjectId is not defined	DELETE	/inventory	undefined
+20240626	00:34:58	6bd9f1d1-457e-4732-a43e-6c0e22a56c76	ReferenceError: ObjectId is not defined	DELETE	/inventory	undefined
+20240626	00:35:59	03d99ef2-c066-48ad-9ead-9eca49ec873d	ReferenceError: ObjectId is not defined	DELETE	/inventory	undefined
+20240626	00:37:50	cb03888c-1059-4aea-aa5b-087c73274465	ReferenceError: ObjectId is not defined	DELETE	/inventory	undefined
+20240626	00:39:18	a3e2879b-b2ba-414c-aa3a-bb0e6eb77472	ReferenceError: ObjectId is not defined	DELETE	/inventory	undefined
+20240626	00:39:56	118f8b5c-d892-43c8-b537-c4785204c3ce	ReferenceError: ObjectId is not defined	DELETE	/inventory	undefined
